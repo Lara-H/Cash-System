@@ -1,2 +1,2 @@
 # Cash-System
-Fortgeschrittene Softwaretechnologie"
+Fortgeschrittene Softwaretechnologie
